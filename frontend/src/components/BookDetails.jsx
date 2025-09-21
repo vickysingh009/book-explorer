@@ -1,6 +1,6 @@
 import React, { useEffect, useState, useRef } from 'react';
 
-const API_BASE = import.meta.env.VITE_API_BASE || "http://localhost:5000";
+const API_BASE = import.meta.env.VITE_API_BASE ?? "";
 
 export default function BookDetails({ bookId, onClose }) {
   const [book, setBook] = useState(null);
