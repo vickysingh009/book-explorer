@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <img src="./example.png" alt="Example Image" width="400"/>
+  <img src="./example.png" alt="Example Image" width="1200"/>
 </p>
 
 
