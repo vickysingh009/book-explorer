@@ -1,5 +1,5 @@
 import React, { useEffect, useState, useCallback } from 'react';
-import NavBar from "../components/NavBar";
+import Navbar from "../components/Navbar";
 import BookCard from '../components/BookCard';
 import BookDetails from '../components/BookDetails';
 
